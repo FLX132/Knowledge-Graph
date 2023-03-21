@@ -1,0 +1,34 @@
+_:hersteller <http://knowlegde.com/graph/identifizierbar_durch> _:hersteller_code .
+_:hersteller <http://knowlegde.com/graph/heißt> _:hersteller_name .
+_:hersteller <http://knowlegde.com/graph/geholt_von> _:quelle .
+
+_:land <http://knowlegde.com/graph/identifizierbar_durch> _:land_id .
+_:land <http://knowlegde.com/graph/heißt> _:land_name .
+_:land <http://knowlegde.com/graph/geholt_von> _:quelle .
+
+_:ort <http://knowlegde.com/graph/identifizierbar_durch> _:ort_id .
+_:ort <http://knowlegde.com/graph/heißt> _:ort_name .
+_:ort <http://knowlegde.com/graph/ist_in> _:land_id .
+_:ort <http://knowlegde.com/graph/geholt_von> _:quelle .
+
+_:kunde <http://knowlegde.com/graph/identifizierbar_durch> _:kunde_account .
+_:kunde <http://knowlegde.com/graph/hat> _:vorname .
+_:kunde <http://knowlegde.com/graph/hat> _:nachname .
+_:kunde <http://knowlegde.com/graph/anzureden_mit> _:anrede .
+_:kunde <http://knowlegde.com/graph/hat> _:geschlecht .
+_:kunde <http://knowlegde.com/graph/geboren_am> _:geburtsdatum .
+_:kunde <http://knowlegde.com/graph/wohnt_in> _:ort_id .
+_:kunde <http://knowlegde.com/graph/geholt_von> _:quelle .
+
+_:fahrzeug <http://knowlegde.com/graph/identifizierbar_durch> _:fin .
+_:fahrzeug <http://knowlegde.com/graph/für> _:kunde_account .
+_:fahrzeug <http://knowlegde.com/graph/gebaut_in> _:baujahr .
+_:fahrzeug <http://knowlegde.com/graph/klassifiziert_durch> _:modell .
+_:fahrzeug <http://knowlegde.com/graph/geholt_von> _:quelle .
+_:fahrzeug <http://knowlegde.com/graph/von_hersteller> _:hersteller_code .
+
+_:fahrzeug <http://knowlegde.com/graph/identifiziert_durch> _:kfz_kennzeichen .
+_:fahrzeug <http://knowlegde.com/graph/fahrzeug_identifiziert_mit> _:fin .
+_:fahrzeug <http://knowlegde.com/graph/geholt_von> _:quelle .
+
+
