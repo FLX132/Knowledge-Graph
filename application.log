@@ -1,0 +1,33 @@
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+ERROR - Target relation(s) not found in model: ['ALLIED_WITH']
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - No target relation specified. Using all relations to generate candidate statements.
+INFO - Generating candidates for relation: hat
+INFO - Generating candidates using random_uniform strategy.
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - No target relation specified. Using all relations to generate candidate statements.
+INFO - Generating candidates for relation: hat
+INFO - Generating candidates using random_uniform strategy.
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Generating candidates for relation: ['ist_in']
+INFO - Generating candidates using random_uniform strategy.
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
+INFO - Generating candidates for relation: ['ist_in']
+INFO - Generating candidates using random_uniform strategy.
+INFO - Writing embeddings tsv to: GoT_embeddings\embeddings_projector.tsv
